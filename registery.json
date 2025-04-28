@@ -4,7 +4,7 @@
         "name": "Filesystem Access",
         "version": "1.0.0",
         "description": "Provides tools to interact with the local filesystem (read, write, list).",
-        "downloads": {
+        "downloadUrls": {
           "default": "https://github.com/mibrahim2001/mcp-extensions/releases/download/filesystem-v1.0.0/filesystem-v1.0.0.zip" 
         }
       }
