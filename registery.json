@@ -5,7 +5,7 @@
         "version": "1.0.0",
         "description": "Provides tools to interact with the local filesystem (read, write, list).",
         "downloads": {
-          "default": "PLACEHOLDER_URL_FOR_FILESYSTEM_ZIP" 
+          "default": "https://github.com/mibrahim2001/mcp-extensions/releases/download/filesystem-v1.0.0/filesystem-v1.0.0.zip" 
         }
       }
     ]
