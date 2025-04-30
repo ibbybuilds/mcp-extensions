@@ -1,11 +1,44 @@
-    [
-      {
-        "id": "filesystem",
-        "name": "Filesystem Access",
-        "version": "1.0.0",
-        "description": "Provides tools to interact with the local filesystem (read, write, list).",
-        "downloadUrls": {
-          "default": "https://github.com/mibrahim2001/mcp-extensions/releases/download/filesystem-v1.0.0/filesystem-v1.0.0.zip" 
-        }
-      }
-    ]
+[
+  {
+    "id": "filesystem",
+    "name": "Filesystem Access",
+    "version": "1.0.0",
+    "description": "Provides tools to interact with the local filesystem (read, write, list).",
+    "downloadUrls": {
+      "darwin": "",
+      "win32": "",
+      "default": "https://github.com/mibrahim2001/mcp-extensions/releases/download/filesystem-v1.0.0/filesystem-v1.0.0.zip"
+    }
+  },
+  {
+    "id": "playwright",
+    "name": "Playwright",
+    "version": "1.0.0",
+    "description": "Enables browser automation using Playwright for scraping, testing, or simulating user actions.",
+    "downloadUrls": {
+      "darwin": "",
+      "win32": "",
+      "default": "https://github.com/mibrahim2001/mcp-extensions/releases/download/playwright-v1.0.0/playwright-v1.0.0.zip"
+    }
+  },
+  {
+    "id": "gsuite",
+    "name": "G Suite",
+    "version": "1.0.0",
+    "description": "Allows interaction with Google Workspace APIs (Gmail and Google Calendar) for automation and integration.",
+    "downloadUrls": {
+      "darwin": "",
+      "win32": ""
+    }
+  },
+  {
+    "id": "fetch",
+    "name": "Fetch",
+    "version": "1.0.0",
+    "description": "Fetches web pages in markdown format for the LLM.",
+    "downloadUrls": {
+      "darwin": "",
+      "win32": ""
+    }
+  }
+]
