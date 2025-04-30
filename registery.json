@@ -28,7 +28,7 @@
     "description": "Allows interaction with Google Workspace APIs (Gmail and Google Calendar) for automation and integration.",
     "downloadUrls": {
       "darwin": "https://github.com/mibrahim2001/mcp-extensions/releases/download/gsuite-darwin-arm-64-v1.0.0/gsuite-darwin-arm64-v1.0.0.zip",
-      "win32": ""
+      "win32": "https://github.com/mibrahim2001/mcp-extensions/releases/download/gsuite-win32-v1.0.0/gsuite-win32-v1.0.0.zip"
     }
   },
   {
