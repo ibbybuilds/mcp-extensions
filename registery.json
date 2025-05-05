@@ -58,5 +58,15 @@
     "downloadUrls":{
       "win32": "https://github.com/mibrahim2001/mcp-extensions/releases/download/windows-cli-v0.1.0/windows-cli-v0.1.0.zip"
     }
+  },
+  {
+    "id": "sequential-thinking",
+    "name": "Sequential Thinking",
+    "version": "0.1.0",
+    "description": "Provide tools for sequential thinking.",
+    "downloadUrls":{
+      "default": "https://github.com/mibrahim2001/mcp-extensions/releases/download/sequential-thinking/sequential-thinking-v0.1.0.zip"
+    }
   }
 ]
+  
