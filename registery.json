@@ -49,5 +49,14 @@
     "downloadUrls":{
       "default": "https://github.com/mibrahim2001/mcp-extensions/releases/download/youtube-transcript-v1.0.0/youtube-transcript-v1.0.0.zip"
     }
+  },
+  {
+    "id": "windows-cli",
+    "name": "Window CLI",
+    "version": "0.1.0",
+    "description": "Provides tools to interact with the Windows CLI",
+    "downloadUrls":{
+      "win32": "https://github.com/mibrahim2001/mcp-extensions/releases/download/windows-cli-v0.1.0/windows-cli-v0.1.0.zip"
+    }
   }
 ]
