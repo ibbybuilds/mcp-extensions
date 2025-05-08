@@ -67,6 +67,16 @@
     "downloadUrls":{
       "default": "https://github.com/mibrahim2001/mcp-extensions/releases/download/sequential-thinking/sequential-thinking-v0.1.0.zip"
     }
-  }
+  },
+  {
+    "id": "desktop-commander",
+    "name": "Desktop Commander",
+    "version": "0.1.0",
+    "description": "Provide tools for desktop operations.",
+    "downloadUrls":{
+      "default": "https://github.com/mibrahim2001/mcp-extensions/releases/download/desktop-commader/desktop-commander-v0.1.0.zip"
+    }
+  },
+  
 ]
   
