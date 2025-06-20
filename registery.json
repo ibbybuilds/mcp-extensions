@@ -13,22 +13,12 @@
   {
     "id": "playwright",
     "name": "Playwright",
-    "version": "1.0.0",
+    "version": "0.2.0",
     "description": "Enables browser automation using Playwright for scraping, testing, or simulating user actions.",
     "downloadUrls": {
       "darwin": "",
       "win32": "",
-      "default": "https://github.com/mibrahim2001/mcp-extensions/releases/download/playwright-stealth-v1.0.1/playwright-stealth-v1.0.1.zip"
-    }
-  },
-  {
-    "id": "gsuite",
-    "name": "G Suite",
-    "version": "1.0.0",
-    "description": "Allows interaction with Google Workspace APIs (Gmail and Google Calendar) for automation and integration.",
-    "downloadUrls": {
-      "darwin": "https://github.com/mibrahim2001/mcp-extensions/releases/download/gsuite-darwin-arm-64-v1.0.0/gsuite-darwin-arm64-v1.0.0.zip",
-      "win32": "https://github.com/mibrahim2001/mcp-extensions/releases/download/gsuite-win32-v1.0.0/gsuite-win32-v1.0.0.zip"
+      "default": "https://github.com/ibbybuilds/mcp-extensions/releases/download/playwright-v0.2.0/playwright-v0.2.0.zip"
     }
   },
   {
@@ -39,15 +29,6 @@
     "downloadUrls": {
       "darwin": "",
       "win32": "https://github.com/mibrahim2001/mcp-extensions/releases/download/fetch-win32-v1.0.0/fetch-win-32-v1.0.0.zip"
-    }
-  },
-  {
-    "id": "youtube-transcript",
-    "name": "Youtube Transcript",
-    "version": "1.0.0",
-    "description": "Provides tools to get transcript of a youtube video from it's link.",
-    "downloadUrls":{
-      "default": "https://github.com/mibrahim2001/mcp-extensions/releases/download/youtube-transcript-v1.0.0/youtube-transcript-v1.0.0.zip"
     }
   },
   {
