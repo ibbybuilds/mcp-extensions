@@ -18,7 +18,7 @@
     "downloadUrls": {
       "darwin": "",
       "win32": "",
-      "default": "https://github.com/ibbybuilds/mcp-extensions/releases/download/playwright-v0.2.0/playwright-v0.2.0.zip"
+      "default": "https://github.com/ibbybuilds/mcp-extensions/releases/download/playwright-v0.2.1/playwright-v0.2.1.zip"
     }
   },
   {
