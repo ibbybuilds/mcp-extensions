@@ -12,7 +12,7 @@
   },
   {
     "id": "playwright",
-    "name": "Playwright",
+    "name": "Browser Use",
     "version": "0.2.0",
     "description": "Enables browser automation using Playwright for scraping, testing, or simulating user actions.",
     "downloadUrls": {
