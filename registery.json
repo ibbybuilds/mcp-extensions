@@ -1,16 +1,5 @@
 [
   {
-    "id": "filesystem",
-    "name": "Filesystem Access",
-    "version": "1.0.0",
-    "description": "Provides tools to interact with the local filesystem (read, write, list).",
-    "downloadUrls": {
-      "darwin": "",
-      "win32": "",
-      "default": "https://github.com/mibrahim2001/mcp-extensions/releases/download/filesystem-v1.0.0/filesystem-v1.0.0.zip"
-    }
-  },
-  {
     "id": "playwright",
     "name": "Browser Use",
     "version": "0.2.0",
@@ -19,34 +8,6 @@
       "darwin": "",
       "win32": "",
       "default": "https://github.com/ibbybuilds/mcp-extensions/releases/download/playwright-v0.2.1/playwright-v0.2.1.zip"
-    }
-  },
-  {
-    "id": "fetch",
-    "name": "Fetch",
-    "version": "1.0.0",
-    "description": "Fetches web pages in markdown format for the LLM.",
-    "downloadUrls": {
-      "darwin": "",
-      "win32": "https://github.com/mibrahim2001/mcp-extensions/releases/download/fetch-win32-v1.0.0/fetch-win-32-v1.0.0.zip"
-    }
-  },
-  {
-    "id": "windows-cli",
-    "name": "Window CLI",
-    "version": "0.1.0",
-    "description": "Provides tools to interact with the Windows CLI",
-    "downloadUrls":{
-      "win32": "https://github.com/mibrahim2001/mcp-extensions/releases/download/windows-cli-v0.1.0/windows-cli-v0.1.0.zip"
-    }
-  },
-  {
-    "id": "sequential-thinking",
-    "name": "Sequential Thinking",
-    "version": "0.1.0",
-    "description": "Provide tools for sequential thinking.",
-    "downloadUrls":{
-      "default": "https://github.com/mibrahim2001/mcp-extensions/releases/download/sequential-thinking/sequential-thinking-v0.1.0.zip"
     }
   },
   {
